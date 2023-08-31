@@ -1,4 +1,3 @@
 Name: Ethan Hay
 Hobbies: Dungeons and Dragons, Video Games, Writing
-Age: 22
-I have a sword collection
+Age: 2I have a sword collectionMy sword is a pretty sword.
